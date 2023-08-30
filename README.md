@@ -35,7 +35,7 @@ If there is no exisitng proposed topic that will cover what you would like to pr
 
 ## Topic voting
 
-Voting will open at **14:55 BST Tuesday 05 September** (just before the afternoon coffee break on the first day of the formal conference).
+Voting will open at **14:55 BST Tuesday 05 September** (just before the afternoon coffee break on the first day of the formal conference) and close at **23:59 BST Tuesday 05 September**.
 
 When voting opens, please use [this Google form](https://forms.gle/3ujhMx5Waw1xWVbK9) to vote for the topics you are most interested in for sessions you will be unconferencing.
 
