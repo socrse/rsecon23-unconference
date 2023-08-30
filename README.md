@@ -9,6 +9,8 @@ There will be four 90 minute unconference sessions running in [Track F](https://
 - Session 3: 13:30-15:00
 - Session 4: 15:20-16:50
 
+Unconference sessions are currently planned to be **in-person only** or **remote only** but cannot mix both in-person and remote attendees as it is extremely difficult to run an effective highly interactive hybrid session without significant prior planning.
+
 ## Topic proposals and discussion
 
 Topics can be proposed and discussed here from 09:00 BST Wednesday 30 August to **13:30 BST Tuesday 05 September** (end of lunch on the first day of the formal conference programme).
@@ -25,8 +27,11 @@ If there is no exisitng proposed topic that will cover what you would like to pr
 
 1. Choose a short but descriptive title for the proposed topic
 2. Write an initial description of the topic, along with what format you expect the topic to take (e.g. a discussion, a co-creation session).
-3. List the sessions timeslots for which one of the proposers will be able to facilitate a session on the topic in, alongside the name of the proposer who has volunteered to facilitate if the topic is assigned to that timeslot.
-4. Save the session
+3. Add the session participation type: either **in-person only** or **remote only**
+4. List the sessions timeslots for which one of the proposers will be able to facilitate a session on the topic, alongside the name of the proposer who has volunteered to facilitate if the topic is assigned to that timeslot. This facilitator must be able to join the session via the selected participation type (in-person or remote).
+5. Save the session
+6. Add a label for the participation type
+7. Add one or more labels for the supported session timeslots  
 
 ## Topic voting
 
