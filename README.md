@@ -46,4 +46,4 @@ When voting opens, please use [this Google form](https://forms.gle/3ujhMx5Waw1xW
 
 We also ask that you provide your name and email address so we can email everyone who voted for each topic that is selected to let them know.
 
-The unconference topics seslected for each session will also be added to the information for each unconference session on the [online conference programme](https://virtual.oxfordabstracts.com/#/event/public/4430) by 08:00 BST on Wednesday 06 September (the day the unconference sessions will run).
+The unconference topics seslected for each session will also be added to the information for each unconference session on the [online conference programme](https://virtual.oxfordabstracts.com/#/event/public/4430) by **08:00 BST on Wednesday 06 September** (the workshop day on which the unconference sessions will run).
