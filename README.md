@@ -9,6 +9,8 @@ There will be four **90 minute** unconference sessions running in [Track F](http
 - Session 3: 13:30-15:00
 - Session 4: 15:20-16:50
 
+The unconference session will be very informal and don't require a lot of planning. Our goal with taking submissions for topic ideas is to provide a place where attendees can see what is being proposed and discuss it in advance of the workshop day on Wednesday 06 September, as well as to provide a mechanism for people to indicate which topics they would actually want and be able to join in each of the four available session slots so we can best schedule topics to slots. Depending on the room size and the number of people who interested in each topic, we may be able to host a few topics per session slot, so please do propose a topic.
+
 Unconference sessions are currently planned to be **in-person only** or **remote only** but cannot mix both in-person and remote attendees as it is extremely difficult to run an effective highly interactive hybrid session without significant prior planning.
 
 ## Topic proposals and discussion
@@ -17,7 +19,7 @@ Topics can be proposed and discussed here from 09:00 BST Wednesday 30 August to 
 
 ### Reviewing and discussing proposed topics
 
-Review the [currently proposed topics](https://github.com/socrse/rsecon23-unconference/discussions/categories/topic-proposals) and join the discussion on any that look interesting to help shape the session proposal. Feel free to express your interest with the various emoji reactions GitHub offers. We will be using a Google form for the formal vote we will use to allocate unconference topics to each of the four sessions. Depending on the room size and the number of people who vote for each topic, we may be able to support anywhere from 1-4 topics per session.
+Review the [currently proposed topics](https://github.com/socrse/rsecon23-unconference/discussions/categories/topic-proposals) and join the discussion on any that look interesting to help shape the session proposal. Feel free to express your interest with the various emoji reactions GitHub offers. You will get an opportunity later to say which slot you actually want and are able to join in each of the four available session slots (see voting section below).
 
 ### Proposing a new topic for discussion
 
