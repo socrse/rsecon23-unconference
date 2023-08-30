@@ -2,7 +2,7 @@
 
 🔔 We are now accepting proposals for session topics for the [RSECon23](https://rsecon23.society-rse.org/) Unconference track! 🔔 
 
-There will be four 90 minute unconference sessions running in [Track F](https://virtual.oxfordabstracts.com/#/event/public/4430) on the conference workshop day on Wednesday 06 September 2023.
+There will be four **90 minute** unconference sessions running in [Track F](https://virtual.oxfordabstracts.com/#/event/public/4430) on the conference workshop day on Wednesday 06 September 2023.
 
 - Session 1: 09:00-10:00
 - Session 2: 11:00-12:30
