@@ -9,7 +9,7 @@ There will be four **90 minute** unconference sessions running in [Track F](http
 - Session 3: 13:30-15:00
 - Session 4: 15:20-16:50
 
-The unconference sessions will be very informal and don't require a lot of planning. Our goal with taking submissions for topic ideas is to provide a place where attendees can see what is being proposed and discuss it in advance of the workshop day on Wednesday 06 September, as well as to provide a mechanism for people to indicate which topics they would actually want and be able to join in each of the four available session slots so we can best schedule topics to slots. Depending on the room size and the number of people who interested in each topic, we may be able to host a few topics per session slot, so please do propose a topic.
+The unconference sessions will be very informal and don't require a lot of planning and we'll aim to support as many topics as we can. Our goal with taking submissions for topic ideas is to provide a place where attendees can see what is being proposed and discuss it in advance of the workshop day on Wednesday 06 September, as well as to provide a mechanism for people to indicate which topics they would actually want and be able to join in each of the four available session slots so we can best schedule topics to slots. Depending on the room size and the number of people who interested in each topic, we may be able to host a few topics per session slot, so please do propose a topic.
 
 Unconference sessions are currently planned to be **in-person only** or **remote only** but cannot mix both in-person and remote attendees as it is extremely difficult to run an effective highly interactive hybrid session without significant prior planning.
 
