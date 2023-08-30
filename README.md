@@ -1,5 +1,44 @@
 # RSECon23 Unconference
 
-We will be using this repository to gather proposals for the RSECon23 Unconference track on Wednesday 06 September 2023.
+🔔 We are now accepting proposals for session topics for the [RSECon23](https://rsecon23.society-rse.org/) Unconference track! 🔔 
 
-We will be accepting topic submissions from 09:00 BST on Thursday 30 August. We are just finalising the best option for folk to propose topics and support voting without needing to be explicitly added to the repository as contributors.
+There will be four 90 minute unconference sessions running in [Track F](https://virtual.oxfordabstracts.com/#/event/public/4430) on the conference workshop day on Wednesday 06 September 2023.
+
+- Session 1: 09:00-10:00
+- Session 2: 11:00-12:30
+- Session 3: 13:30-15:00
+- Session 4: 15:20-16:50
+
+## Topic proposals and discussion
+
+Topics can be proposed and discussed here from 09:00 BST Wednesday 30 August to **13:30 BST Tuesday 05 September** (end of lunch on the first day of the formal conference programme).
+
+### Reviewing and discussing proposed topics
+
+Review the [currently proposed topics](https://github.com/socrse/rsecon23-unconference/discussions/categories/topic-proposals) and join the discussion on any that look interesting to help shape the session proposal. Feel free to express your interest with the various emoji reactions GitHub offers. We will be using a Google form for the formal vote we will use to allocate unconference topics to each of the four sessions. Depending on the room size and the number of people who vote for each topic, we may be able to support anywhere from 1-4 topics per session.
+
+### Proposing a new topic for discussion
+
+Before proposing a topic, please review the [currently proposed topics](https://github.com/socrse/rsecon23-unconference/discussions/categories/topic-proposals) to see if there is already a similar proposal. If there is, consider joining the discussion on that topic proposal there to see if if might cover what you want.
+
+If there is no exisitng proposed topic that will cover what you would like to propse, then please create a new "Topic proposal" discussion in the [discussions tab](https://github.com/socrse/rsecon23-unconference/discussions/categories/topic-proposals).
+
+1. Choose a short but descriptive title for the proposed topic
+2. Write an initial description of the topic, along with what format you expect the topic to take (e.g. a discussion, a co-creation session).
+3. List the sessions timeslots for which one of the proposers will be able to facilitate a session on the topic in, alongside the name of the proposer who has volunteered to facilitate if the topic is assigned to that timeslot.
+4. Save the session
+
+## Topic voting
+
+Voting will open at **14:55 BST Tuesday 05 September** (just before the afternoon coffee break on the first day of the formal conference).
+
+When voting opens, please use [this Google form](https://forms.gle/3ujhMx5Waw1xWVbK9) to vote for the topics you are most interested in for sessions you will be unconferencing.
+
+### Voting procedure
+
+- For each session choose the **one** topic that, if it was scheduled for that timeslot, you would attend in preference to any **other option** (unconference topic or pre-scheduled workshop, walkthrough or community event).
+- If you would prefer to go to a pre-scheduled workshop, walkthrough or community event in that session, **do not select** a topic for that session.
+
+We also ask that you provide your name and email address so we can email everyone who voted for each topic that is selected to let them know.
+
+The unconference topics seslected for each session will also be added to the information for each unconference session on the [online conference programme](https://virtual.oxfordabstracts.com/#/event/public/4430) by 08:00 BST on Wednesday 06 September (the day the unconference sessions will run).
