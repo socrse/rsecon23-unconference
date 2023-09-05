@@ -13,7 +13,7 @@ Please feel free to still use the [dicussions](https://github.com/socrse/rsecon2
 
 Unconference sessions are currently planned to be **in-person only** or **remote only** but cannot mix both in-person and remote attendees as it is extremely difficult to run an effective highly interactive hybrid session without significant prior planning. Remote sessions will be run via breakout rooms in a volunteer managed  Zoom meeting. This link will be shared on the Wednesday morning on the [#rsecon23](https://ukrse.slack.com/archives/C05GRKZR70C) channel on the RSE Slack and on the session cards on the online conference programme on Oxford Abstracts.
 
-If you see a topic you like proposed as and in-person session and you are remote or vice-versa, feel free to post a duplicate proposal for your attendance mode. It's pefectly ok to have both in-person and remote sessions for the same topic.
+If you see a topic you like proposed as and in-person session and you are remote or vice-versa, feel free to post a duplicate proposal for your attendance mode. It's perfectly ok to have both in-person and remote sessions for the same topic.
 
 ### Selecting and scheduling topics
 We'll collate the proposed topics from Slido **early Wednesday morning** and, during the coffee session from **08:00-09:00 Wednesday**, will run a physical voting / scheduling session for **in-person only** topics in the coffee area and use the Slido votes and a discussion in the [#rsecon23](https://ukrse.slack.com/archives/C05GRKZR70C) channel on the RSE Slack to select and schedule **remote only** topics.
